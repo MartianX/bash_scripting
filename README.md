@@ -1,1 +1,1 @@
-# bash_scripting
+# useful scripts and some that i write for fun
